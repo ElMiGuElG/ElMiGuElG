@@ -1,5 +1,5 @@
 ### Hi, I'm Miguel Ángel 👋🏼👨🏽‍💻
-![Banner1](https://user-images.githubusercontent.com/113398998/190945688-a5ce2631-e2d5-4c10-8479-e9b2da50a593.png)
+![Banner2](https://user-images.githubusercontent.com/113398998/190945991-15a98f12-e4d6-4fbe-81ad-f44b4b2a4ea1.png)
 ### Passionate Software Development Student from Colombia
 <img align="right" alt="Codificación" width="400" src=https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif>
 
