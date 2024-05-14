@@ -9,8 +9,13 @@
 
 - 🌱 I’m currently learning:
   <ul>
+  <li> <strong> Unreal Engine </strong> </li>
   <li> <strong> Visual C# </strong> </li>
   <li> <strong> Processing </strong> </li>
+  <li> <strong> Java/JavaScript </strong> </li>
+  <li> <strong> HTML/CSS </strong> </li>
+  <li> <strong> Kotlin </strong> </li>
+    
   </ul>
 
 - ⚡ Fun fact: **I like to draw in my free time**
