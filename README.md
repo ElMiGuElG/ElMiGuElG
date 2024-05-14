@@ -22,21 +22,6 @@ Hi, I'm Miguel Angel, a Passionate Software Development Student From Colombia
 
 - 👨🏽‍🎓 Pronouns: **He/Him**
 
-## &#x1f4c8; ***GitHub Stats***
-
-<br>
-
-<a href="https://github.com/ElMiguelGO">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElMiguelGO&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/ElMiguelGO">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ElMiguelGO&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-<br>
-
 ## 💻***Technologies & Tools*** 
 
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=7790c6)
